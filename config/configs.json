@@ -1,0 +1,46 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/earthcrafterman/PIGX-Database",
+			"repo_name": "Database Updates",
+			"repo_path": "./expansions",
+			"core_path": ".",
+			"has_core": true,
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/earthcrafterman/PIGX-LFLists",
+			"repo_name": "Banlist Updates",
+			"repo_path": "./lflists",
+			"lflist_path": ".",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/earthcrafterman/PIGX-Scripts",
+			"repo_name": "Script Updates",
+			"repo_path": "./script",
+			"script_path": ".",
+			"should_update": true,
+			"should_read": true
+		}
+	],
+	"urls": [
+		{
+			"url": "https://raw.githubusercontent.com/earthcrafterman/PIGX-Pics/master/{}.jpg",
+			"type": "pic"
+		},
+		{
+			"url": "default",
+			"type": "field"
+		},
+		{
+			"url": "default",
+			"type": "cover"
+		}
+	],
+	"servers": [
+	],
+	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
+}
