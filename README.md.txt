@@ -1,3 +1,59 @@
+# Project Ignis GX Changes:
+
+Reimplementing the game in order of OCG Release
+* Will also include TCG exclusives
+* The end of each era will herald in a series of custom and anime/game-exclusive cards
+* Dedication to a balanced and interesting sandbox and retroactive Problem Solving Card Text
+
+Mass Renaming
+* Cards with generic names given new ones inspired by mythology and folklore
+* Cards whose names were poorly translated or censored given more proper translations
+
+General Effect Rebalancing
+* Removal comes at a premium: Expect to go -1 off removal effects (including effects that negate and destroy)
+* More "Pay LP until you have 100 Left" effects. Effects like Solemn Judgement and Cyber-Stein are now hard-countered by Sparks.
+* Stronger healing effects, Dian Cecht the God of Healing for example heals 4000 LP instead of 1000
+
+Reworked ATK/DEF
+* Normal Monsters will always have more ATK and DEF than effect monsters with beneficial effects
+* The ATK/DEF of monsters can go up to 10,000, for example, Blue-Eyes White Dragon's ATK/DEF is 4000/3500
+
+Fixed "Missing the Timing" for everything except Counter Traps
+* All Counter Traps use "When... You Can" syntax, every other card uses "If... You Can" syntax
+
+Buffed Weak Types
+* Ritual Spells can now Ritual Summon monsters from the Deck
+* Toons now all contain the text "This card can attack directly. After damage calculatin, if this card battled: Banish this card."
+* Spirit monsters now all contain the text "During the End Phase: Return this card to the hand." and can be Special Summoned.
+
+Reworked Union Monsters
+* Effects preceeded by FIELD:, HAND:, MONSTER:, or SPELL/TRAP: can only be activated in the respective locations
+* Effects that can only possibly occur in the monster zone like "If this card is Special Summoned:", do not have MONSTER: preceeding them
+* "Union Place", short for "place face-up in your Spell/Trap Zone", often followed by "as a Continuous Spell"
+* "Union Equip", short for "place this card face-up in your Spell/Trap Zone as an Equip Spell Card and equip", often followed by "to a monster"
+
+Reworked Contact Fusion
+* Officially a type of Fusion Summoning, and not just Special Summoning
+* Supported by most Fusion Monsters
+* Can use materials from your Spell/Trap Zone, unlike Fusion Summoning through card effects
+
+Reworked Types
+* Winged Beast merged into Beasts, support will specify WIND Beasts
+* Dinosaur merged into Reptiles, fear the day Snake Rain is implemented
+* Beast-Warrior split into Warrior and Beast (Did someone at Konami want to add dual types but everyone else say no and this was the compromise?)
+* Wyrm merged into Dragons
+* Creator God merged into Divine Beast (Creator God is good for lore, not so great for type support)
+* Psychic redefined to mean monsters who are heavily associated with using or manipulating brains and logic/or (musicians, psychics, scientists, etc)
+* Cyberse merged into Psychic (they are monsters made of data aka logical instructions)
+* New Aquatic type, includuds former non-dragon members of Sea Serpents, former non-elemental members of Aqua, and former members of Fish
+* New Elemental type, represents monsters that are elements given form, such as ghosts, snowmen, and gnomes (greek mythology is weird) 
+* Pyro, Thunder, and the rest of Aqua merged into Elemental (I'm sorry Fire Kraken)
+* Removed Tuners, Synchros, Xyz, Pendulums, and Link
+* Equip Traps now exist de-jure
+* Union monsters now represent monsters which can exist in either the Spell and Trap Zone or the Monster Zone
+* Removed Nomi Monsters
+
+# Original Project Ignis EDOPro README contents
 # Project Ignis: EDOPro
 All assets for the game, except card images. See LICENSE and COPYING in each folder for proper credits, copyright, and rules for redistribution.
 On Windows, please do not put your game install in Program Files, Downloads, or any other location that might be read-only or require admin permissions.
