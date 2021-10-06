@@ -43,9 +43,9 @@
 	"servers": [
 		{
 			"name": "Test",
-			"address": "172.18.57.133",
+			"address": "108.26.194.140",
 			"duelport": 7911,
-			"roomaddress": "172.18.57.133",
+			"roomaddress": "108.26.194.140",
 			"roomlistport": 7922
 		}
 	],
