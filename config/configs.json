@@ -41,6 +41,13 @@
 		}
 	],
 	"servers": [
+		{
+			"name": "Test",
+			"address": "172.18.57.133",
+			"duelport": 7911,
+			"roomaddress": "172.18.57.133",
+			"roomlistport": 7922
+		}
 	],
 	"posixPathExtension": "/usr/local/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands"
 }
