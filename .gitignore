@@ -8,5 +8,5 @@ pics/
 lflists/
 expansions/
 deck/
-config/configs.json
-config/system.json
+/config/system.conf
+/config/configs.conf
