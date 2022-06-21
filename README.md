@@ -20,7 +20,7 @@ Reworked ATK/DEF
 * The ATK/DEF of monsters can go up to 10,000, for example, Blue-Eyes White Dragon's ATK/DEF is 4000/3500
 
 Fixed "Missing the Timing" for everything except Counter Traps
-* All Counter Traps use "When... You Can" syntax, every other card uses "If... You Can" syntax
+* All counter effects use "When... You Can" syntax, every other effect uses "If... You Can" syntax instead
 
 Buffed Weak Types
 * Ritual Spells can now Ritual Summon monsters from the Deck
@@ -51,6 +51,7 @@ Reworked Types
 * Pyro, Thunder, and the rest of Aqua merged into Elemental (I'm sorry Fire Kraken)
 * Removed Tuners, Synchros, Xyz, Pendulums, and Link
 * Equip Traps now exist de-jure
+* Ritual Traps now exist
 * Union monsters now represent monsters which can exist in either the Spell and Trap Zone or the Monster Zone
 * Removed Nomi Monsters
 
