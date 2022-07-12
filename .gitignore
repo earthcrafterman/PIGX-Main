@@ -9,4 +9,4 @@ lflists/
 expansions/
 deck/
 /config/system.conf
-/config/configs.conf
+/config/configs.json
